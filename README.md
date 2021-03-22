@@ -1,5 +1,6 @@
 # horvathjanos
-Üdvözöllek, János!
+Weboldal címe:
+https://gaborszantonk.github.io/horvathjanos/
 
 # 03 08-ra feladat
 
