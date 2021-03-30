@@ -1,4 +1,4 @@
-body{background-image: url(kep2.jpg); background-repeat: no-repeat; background-position: center;background-size: cover;}
+body{background-image:url(kep2.jpg); background-repeat: no-repeat; background-position: center;background-size: cover;}
 header{width: 100%;color: red;background-color: black;}
 body{color: red;text-align: center;}
 #attackontitan {width: 33%;margin-top: 5%;background-color: orangered; float: left; }
