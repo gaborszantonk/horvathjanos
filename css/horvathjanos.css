@@ -1,7 +1,7 @@
 body{background-image:url(kep3.jpg); background-repeat: no-repeat; background-position: center;background-size: cover;}
-header{width: 100%;color: red;background-color: black;}
-body{color: red;text-align: center;}
-#attackontitan {width: 33%;margin-top: 5%;background-color: orangered; float: left; }
+header{width: 100%;color: lightgreen;background-color: black;}
+body{color: black;text-align: center;}
+#attackontitan {width: 33%;margin-top: 5%;background-color: blue; float: left; }
 #deathnote {width: 33%;margin-top: 5%;background-color:lightblue; float: left; }
-#demonslayer {width: 33%;margin-top: 5%;background-color: lightgreen; float: left; }
+#demonslayer {width: 33%;margin-top: 5%;background-color: blue; float: left; }
 .torol{clear: both;}
